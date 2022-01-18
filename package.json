@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "console.table": "^0.10.0",
+    "express": "^4.17.2",
+    "inquirer": "^8.2.0",
+    "mysql2": "^2.3.3"
+  },
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "name": "employee-tracker",
+  "description": "This application is a tracker to view and manage the departments, roles, and employees.",
+  "version": "1.0.0",
+  "main": "server.js",
+  "devDependencies": {
+    "jest": "^27.4.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ChauDeveloper/employee-tracker.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ChauDeveloper/employee-tracker/issues"
+  },
+  "homepage": "https://github.com/ChauDeveloper/employee-tracker#readme"
+}

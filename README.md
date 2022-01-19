@@ -3,5 +3,5 @@ This application is a tracker to view and manage the departments, roles, and emp
 
 # Link to video demonstration:
 https://watch.screencastify.com/v/ChWJQ7RqwMMFidsgFgnC
-_audio on for additional walk through explanation_
+###### _audio on for additional walk through explanation_
 

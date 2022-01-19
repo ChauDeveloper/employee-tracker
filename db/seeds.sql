@@ -137,6 +137,7 @@ VALUES
 
 INSERT INTO managers (manager_id, name)
 VALUES
+(NULL, NULL),
 (48, 'Margaret Oliphant'),
 (49, 'Anthony Trollope'),
 (20, 'Emil Zola'),
